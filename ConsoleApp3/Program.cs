@@ -2,4 +2,7 @@
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello again, World!");
 Console.WriteLine("Hello, World!");
+Console.WriteLine("Added a line of code");
+Console.WriteLine("Added another line of code");
+Console.WriteLine("Added a third line of code");
 Console.ReadLine();
